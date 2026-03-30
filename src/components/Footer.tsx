@@ -13,7 +13,7 @@ export default function Footer() {
               alt={COMPANY.fullName}
               width={140}
               height={44}
-              className="h-9 w-auto brightness-0 invert mb-4"
+              className="h-9 w-auto mb-4"
             />
             <p className="text-gray-400 text-sm leading-relaxed max-w-xs">
               Professional drone-powered cleaning for buildings, windows, solar
